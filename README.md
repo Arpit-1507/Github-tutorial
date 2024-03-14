@@ -1,2 +1,2 @@
 # Github-tutorial
-to learn github
+to learn github fom - Apna College
